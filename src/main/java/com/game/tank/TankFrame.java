@@ -48,6 +48,7 @@ public class TankFrame extends Frame {
 
     @Override
     public void paint(Graphics g){
+
         g.setColor(new Color(0,0,0));
         g.fillRect(100,100,20,20);
     }
